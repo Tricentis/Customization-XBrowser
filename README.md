@@ -17,6 +17,6 @@
  3. Copy TOSCA Advanced Toolkit Workspace in Tosca Workspace Directory **(C:\Tosca_Projects\Tosca_Workspaces)**
  
    After Successful Installation of Tosca (10.1) Advanced Toolkit, it opens Tosca Commander and opens
-Tosca Advanced Toolkit project.
+Tosca Advanced Toolkit Project.
 
   ## Introduction and Customization Videos are available [here](https://tricentis.egnyte.com/fl/UucaOg3295) 

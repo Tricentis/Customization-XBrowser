@@ -19,4 +19,4 @@
    After Successful Installation of Tosca (10.1) Advanced Toolkit, it opens Tosca Commander and opens
 Tosca Advanced Toolkit project.
 
-   Introduction and Customization Videos are available [here](https://tricentis.egnyte.com/fl/UucaOg3295) 
+   **Introduction and Customization Videos are available** [here](https://tricentis.egnyte.com/fl/UucaOg3295) 

@@ -10,7 +10,7 @@
         
       To install the Toolkit Application, run Toolkit Setup Application as an Administrator.
    
-**During Installation Toolkit Application, will -**
+## During Installation Toolkit Application, will -
 
  1. Create Tosca Toolkit Directory in Tosca projects **(C:\Tosca_Projects)**
  2. Copy all dlls, .exe and bat files in Tosca home **(C:\Program Files(x86)\ TRICENTIS\Tosca Test suite)**

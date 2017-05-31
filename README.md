@@ -2,7 +2,7 @@
 
 **Introduction**
 
-   This is a Tosca(10.1) Advanced Toolkit Package for those people who are very first user of Tricentis Tosca.
+   This is a **Tosca(10.1) Advanced Toolkit Package** for those people who are very first user of Tricentis Tosca.
 
    **Tosca(10.1) Advanced Toolkit Package** contains Toolkit Setup files and Artifacts for Tosca Advanced Toolkit installation.
 

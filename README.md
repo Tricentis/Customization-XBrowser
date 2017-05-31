@@ -1,12 +1,12 @@
 # Customization-XBrowser
 
-**Introduction**
+#Introduction
 
    This is a **Tosca(10.1) Advanced Toolkit Package** for those people who are very first user of Tricentis Tosca.
 
    **Tosca(10.1) Advanced Toolkit Package** contains Toolkit Setup files and Artifacts for Tosca Advanced Toolkit installation.
 
-**Installation-**
+##Installation-
         
       To install the Toolkit Application, run Toolkit Setup Application as an Administrator.
    

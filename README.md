@@ -2,12 +2,13 @@
 
 **Introduction**
 
-   This is a Tosca Advanced Toolkit Package for those people who are very first user of Tricentis Tosca.
+   This is a Tosca(10.1) Advanced Toolkit Package for those people who are very first user of Tricentis Tosca.
 
-   **Tosca Advanced Toolkit Package** contains Toolkit Setup files and Artifacts for Tosca Advanced Toolkit installation.
+   **Tosca(10.1) Advanced Toolkit Package** contains Toolkit Setup files and Artifacts for Tosca Advanced Toolkit installation.
 
 **Installation-**
-    To install the Toolkit Application, run Toolkit Setup Application as an Administrator.
+        
+      To install the Toolkit Application, run Toolkit Setup Application as an Administrator.
    
 **During Installation Toolkit Application, will -**
 

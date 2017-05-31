@@ -12,9 +12,9 @@
    
 **During Installation Toolkit Application, will -**
 
- 1. Create Tosca Toolkit Directory in Tosca projects (C:\Tosca_Projects)
- 2. Copy all dlls, .exe and bat files in Tosca home (C:\Program Files(x86)\ TRICENTIS\Tosca Test suite)
- 3. Copy TOSCA Advanced Toolkit Workspace in Tosca Workspace Directory (C:\Tosca_Projects\Tosca_Workspaces)
+ 1. Create Tosca Toolkit Directory in Tosca projects **(C:\Tosca_Projects)**
+ 2. Copy all dlls, .exe and bat files in Tosca home **(C:\Program Files(x86)\ TRICENTIS\Tosca Test suite)**
+ 3. Copy TOSCA Advanced Toolkit Workspace in Tosca Workspace Directory **(C:\Tosca_Projects\Tosca_Workspaces)**
  
    After Successful Installation of Tosca (10.1) Advanced Toolkit, it opens Tosca Commander and opens
 Tosca Advanced Toolkit project.

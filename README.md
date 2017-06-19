@@ -25,4 +25,4 @@ Tosca Advanced Toolkit Project.
    
    **Link Custom Control Video are available** [here](https://youtu.be/-tQoH294Tu0)
    
-   **Google Translator Custom Control are available [here]**(https://youtu.be/CV_JlvoToxE)
+   **Google Translator Custom Control are available** [here](https://youtu.be/CV_JlvoToxE)

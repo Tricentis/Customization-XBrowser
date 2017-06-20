@@ -1,0 +1,79 @@
+[3] 3:47:25 PM: Log started for 'F:\ToolKit Package\Artifacts\Advanced TOSCA ToolKit\Advanced TOSCA ToolKit.tws'
+[3] 3:47:25 PM: Log level: 4
+[3] 3:47:25 PM: Release: 10.1.0.65093
+[3] 3:47:26 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 10.1.0.808 (63737)
+[3] 3:47:26 PM:  + ExcelImportAndExportAddIn: ExcelImportAndExportAddIn 10.1.0.808 (63349)
+[3] 3:47:26 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 10.1.0.808 (63737)
+[3] 3:47:26 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 10.1.0.808 (64167)
+    + : SAPSolutionManagerIntegration 10.1.0.808 (64189)
+[3] 3:47:26 PM:  + ObjectHistoryExplorer: ObjectHistoryExplorerAddIn 10.1.0.808 (63349)
+[3] 3:47:26 PM:  + OptIntAddIn: OptIntAddIn 10.1.0.808 (63349)
+[3] 3:47:26 PM:  + Reporting: ReportingAddIn 10.1.0.808 (63737)
+[3] 3:47:26 PM:  + Requirements: RequirementsManagement 10.1.0.808 (64167)
+[3] 3:47:26 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 10.1.0.808 (64189)
+[3] 3:47:26 PM:  + TestCaseDesign: TestCaseDesign 10.1.0.808 (64167)
+[3] 3:47:26 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 10.1.0.808 (63737)
+[3] 3:47:26 PM:  + XDefinitions: XDefinitions 10.1.0.808 (63998)
+[3] 3:47:26 PM: Opened from Workspace File 'F:\ToolKit Package\Artifacts\Advanced TOSCA ToolKit\Advanced TOSCA ToolKit.tws'
+[3] 3:47:26 PM: OpenWorkspace took 00:00:00.9672000 to finish
+[4] 3:47:27 PM:  ShowStatusInfo: 'Ready'
+[3] 3:47:28 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:28 PM: Searcher found 0 results in 73.8 ms
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Ready'
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Ready'
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Ready'
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Ready'
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 3:47:29 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 3:47:29 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:29 PM: Searcher found 0 results in 0 ms
+[4] 3:47:32 PM:  ShowStatusInfo: 'Ready'
+[3] 3:47:32 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:32 PM: Searcher found 0 results in 0 ms
+[4] 3:47:32 PM:  ShowStatusInfo: '1 object selected'
+[3] 3:47:32 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:32 PM: Searcher found 0 results in 0 ms
+[4] 3:47:33 PM:  ShowStatusInfo: 'Ready'
+[3] 3:47:33 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:33 PM: Searcher found 0 results in 0 ms
+[4] 3:47:33 PM:  ShowStatusInfo: '1 object selected'
+[3] 3:47:33 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:33 PM: Searcher found 0 results in 0 ms
+[4] 3:47:35 PM:  ShowStatusInfo: 'Ready'
+[3] 3:47:35 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:35 PM: Searcher found 0 results in 0 ms
+[4] 3:47:36 PM:  ShowStatusInfo: '1 object selected'
+[3] 3:47:36 PM: Search started on 1 objects for query '=>SUBPARTS:XModule'
+[3] 3:47:36 PM: Searcher found 0 results in 0 ms
+[4] 3:47:37 PM:  ShowStatusInfo: 'Ready'
+[4] 3:47:39 PM:  ShowStatusInfo: '1 object selected'
+[4] 3:47:44 PM:  ShowStatusInfo: 'Ready'
+[3] 3:47:46 PM: Closing Workspace!
+[3] 3:47:52 PM: Log closed!

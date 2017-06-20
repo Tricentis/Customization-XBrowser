@@ -1,0 +1,61 @@
+[3] 2:07:41 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Advanced TOSCA ToolKit\Advanced TOSCA ToolKit.tws'
+[3] 2:07:41 PM: Log level: 4
+[3] 2:07:41 PM: Release: 10.0.0.26035
+[3] 2:07:41 PM: Resolved assembly 'System.Data.SQLite, Version=1.0.103.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\x64\System.Data.SQLite.DLL'
+[3] 2:07:42 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 10.0.0.760 (25992)
+[3] 2:07:42 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 10.0.0.760 (26085)
+[3] 2:07:42 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 10.0.0.760 (26041)
+    + : QualityCenterIntegration 10.0.0.760 (26036)
+    + : SAPSolutionManagerIntegration 10.0.0.760 (26036)
+[3] 2:07:42 PM:  + OptIntAddIn: OptIntAddIn 10.0.0.1390 (23142)
+[3] 2:07:42 PM:  + Reporting: ReportingAddIn 10.0.0.760 (25964)
+[3] 2:07:42 PM:  + Requirements: RequirementsManagement 10.0.0.760 (25992)
+[3] 2:07:42 PM:  - SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 10.0.0.760 (25954)
+[3] 2:07:42 PM:  + SimpleDefectTrackingAddIn: SimpleDefectTrackingAddIn 10.0.0.760 (25477)
+[3] 2:07:42 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 10.0.0.1390 (23485)
+[3] 2:07:42 PM:  + TestCaseDesign: TestCaseDesign 10.0.0.760 (25964)
+[3] 2:07:42 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 10.0.0.760 (25909)
+[3] 2:07:42 PM:  + XDefinitions: XDefinitions 10.0.0.760 (26034)
+[3] 2:07:42 PM: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Advanced TOSCA ToolKit\Advanced TOSCA ToolKit.tws'
+[3] 2:07:42 PM: OpenWorkspace took 00:00:00.9672000 to finish
+[4] 2:07:44 PM:  ShowStatusInfo: 'Ready'
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Ready'
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Ready'
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Ready'
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Ready'
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 2:07:46 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 2:07:51 PM:  ShowStatusInfo: 'Ready'
+[4] 2:07:56 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:07:56 PM:  ShowStatusInfo: 'Ready'
+[4] 2:07:58 PM:  ShowStatusInfo: '1 object selected'
+[4] 2:07:58 PM:  ShowStatusInfo: 'Ready'
+[3] 2:08:00 PM: Closing Workspace!
+[3] 2:08:04 PM: Log closed!

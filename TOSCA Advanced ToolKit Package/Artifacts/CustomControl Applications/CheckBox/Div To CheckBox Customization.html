@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<body style="margin:0px; background-color: #1e73be;font-family:calibri">
+	
+		<table style="width:100%;">
+			<tr style="height: 25px; width:100%;">
+				<td rowspan="2" style="width:25px;">
+					<img src="../TricentisLogo.png" style="height: 50px; width:50px">	
+				</td>
+				<td>
+					<label align="bottom" style="font-size:25px;color:white;text-align:bottom;display: block">Tosca ToolKit V1.0</label>
+				</td>
+			</tr>
+			<tr style="height: 25px; width:100%;">				
+				<td>
+					<label style="font-size:20px;color:white;text-align:left;display: block">HTML Customization Applications</label>
+				</td>
+			</tr>
+			<tr style="height: 2px; width:100%;">				
+				<td colspan="2" style="background-color: navy;">
+					
+				</td>
+			</tr>
+		</table>
+		<div style="background-color: white; height:700px;">
+			<br></br>
+			<label style="font-size:25px;color:black; margin-left: 60px;">Toggle-CheckBox</label>
+			<br></br>
+		
+			<div>
+				<div id="Yes" style="padding:0px; display: inline-block; background-color:silver;font:20px;font-family:calibri;margin-left:90px" >
+					<label style="margin:10px;" >Yes</label>			
+				</div><div id="No" style="padding:0px; display: inline-block; background-color:silver;font:20px;font-family:calibri;">			
+					<label  style="margin:10px;" >No</label>
+				</div>
+				<br></br>
+			
+				<div id="flip" style="padding:0px; display: inline-block; background-color:#6495ED;font:20px;font-family:calibri;">			
+					<label id="ClickLabel" class="clickable" style="margin:10px;">No</label>
+				</div>
+		   </div>
+		</div>	
+			<div style="width:100%; height:2px; background-color: navy;"/>
+			<label style="font-size:20px;color:white;text-align:left;display: block">Introduction: In this application we are customizing div technical as a checkbox.</label>
+			<label style="font-size:20px;color:white;text-align:left;display: block;margin:8px;">Adapter : ICheckBoxAdapter </label>
+		
+	</body>
+	
+	
+	<script type="text/javascript">
+			var flip = document.getElementById("flip");
+			var No = document.getElementById("No");
+			var Yes = document.getElementById("Yes");
+			var ClickLabel = document.getElementById("ClickLabel");
+			
+			flip.style.position = "absolute";
+			flip.style.left= No.offsetLeft + 'px';
+			flip.style.top= No.offsetTop + 'px';
+			flip.style.width = No.style.width;
+			flip.style.height = No.style.height;
+		</script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<script type="text/javascript">
+			$('.clickable').on('click',function()
+				{
+				var str = flip.innerText;
+					
+					if (str.indexOf("No") != -1)
+					{
+						flip.style.position = "absolute";
+						flip.style.left= Yes.offsetLeft + 'px';
+						flip.style.top= Yes.offsetTop + 'px';
+						flip.style.width = Yes.style.width;
+						flip.style.height = Yes.style.height;
+						ClickLabel.innerText = Yes.innerText;
+						ClickLabel.innerText = Yes.innerText;
+					}
+					else
+					{
+						flip.style.position = "absolute";
+						flip.style.left= No.offsetLeft + 'px';
+						flip.style.top= No.offsetTop + 'px';
+						flip.style.width = No.style.width;
+						flip.style.height = No.style.height;
+						ClickLabel.innerText = No.innerText;
+					}
+					
+					
+					}
+			);
+		</script>
+</html>

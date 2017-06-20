@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Tree: Tosca Customization ToolKit v1.0</title>
+		<link rel="stylesheet" type="text/css" href="../../themes/default/easyui.css">
+		<link rel="stylesheet" type="text/css" href="../../themes/icon.css">
+		<script type="text/javascript" src="../../jquery.min.js"></script>
+		<script type="text/javascript" src="../../jquery.easyui.min.js"></script>
+	</head>
+	<body style="margin:0px; width:100%; background-color: #1e73be;font-family:calibri">
+			<table style="width:100%;">
+				<tr style="height: 25px; width:100%;">
+					<td rowspan="2" style="width:25px;">
+						<img src="../../../TricentisLogo.png" style="height: 50px; width:50px">	
+					</td>
+					<td>
+						<label align="bottom" style="font-size:25px;color:white;text-align:bottom;display: block">Tosca ToolKit V1.0</label>
+					</td>
+				</tr>
+				<tr style="height: 25px; width:100%;">				
+					<td>
+						<label style="font-size:20px;color:white;text-align:left;display: block">HTML Customization Applications</label>
+					</td>
+				</tr>
+				<tr style="height: 2px; width:100%;">				
+					<td colspan="2" style="background-color: navy;"/>
+				</tr>
+			</table>	
+			<div style="background-color: white; height:700px;">
+				<br></br>
+				<label style="font-size:25px;color:black; margin-left: 60px">Tree</label>
+				<br></br>
+				<ul class="easyui-tree" style="font-size:20px;color:black; margin-left: 90px">
+					<li>
+						<span>My Documents</span>
+						<ul>
+							<li data-options="state:'closed'">
+								<span>Photos</span>
+								<ul>
+									<li>
+										<span>Friend</span>
+									</li>
+									<li>
+										<span>Wife</span>
+									</li>
+									<li>
+										<span>Company</span>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<span>Program Files</span>
+								<ul>
+									<li>Intel</li>
+									<li>Java</li>
+									<li>Microsoft Office</li>
+									<li>Games</li>
+								</ul>
+							</li>
+							<li>index.html</li>
+							<li>about.html</li>
+							<li>welcome.html</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+			<div style="width:100%; height:2px; background-color: navy;"/>
+			<label style="font-size:20px;color:white;text-align:left;display: block">Introduction: In this application we are customizing element technical as a tree and div technical as tree nodes.</label>
+			<label style="font-size:20px;color:white;text-align:left;display: block;margin:8px;">Adapters : ITreeAdapter, ITreeNodeAdapter </label>
+			<label style="font-size:20px;color:white;text-align:left;display: block;margin:8px;">Controllers : TreeContextAdapterController, TreeNodeContextAdapterController </label>
+	</body>
+</html>

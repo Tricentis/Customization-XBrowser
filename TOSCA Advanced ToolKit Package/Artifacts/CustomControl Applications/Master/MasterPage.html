@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tosca Customization Tutorial v1.0</title>
+	</head>
+	<body style="margin:0px; background-color: #1e73be;font-family:calibri">
+		<script type="text/javascript">
+			var paths = ["Sample Application: Div to Button Example","Sample Application: Div To CheckBox Example","Sample Application: Accordion to Links Example","Sample Application: Div to ComboBox Example","Sample Application: Div to Table Example","Sample Application: Element to Tree Example"];
+			function myFunction(id) 
+			{
+				var str1 = "C:\\Tosca_Projects\\Tosca ToolKit\\CustomControl Applications\\Master\\Container.html?control=";
+				var str2 = paths[id];
+				window.location.href = str1.concat(str2);				
+			}
+		</script>
+		<table style="width:100%;">
+			<tr style="height: 25px; width:100%;">
+				<td rowspan="2" style="width:25px;">
+					<img src="../TricentisLogo.png" style="height: 50px; width:50px">	
+				</td>
+				<td>
+					<label align="bottom" style="font-size:25px;color:white;text-align:bottom;display: block">Tosca ToolKit V1.0</label>
+				</td>
+			</tr>
+			<tr style="height: 25px; width:100%;">				
+				<td>
+					<label style="font-size:20px;color:white;text-align:left;display: block">HTML Customization Applications</label>
+				</td>
+			</tr>
+			<tr style="height: 2px; width:100%;">				
+				<td colspan="2" style="background-color: navy;">
+					
+				</td>
+			</tr>
+		</table>	
+		<div style="background-color: white; height:700px;">
+		<br></br>
+		<label style="font-size:25px;color:black; margin-left: 60px">Sample Applications</label>
+			
+		    <ul style="font-family:calibri;font-size:20px;margin-left:90px">
+				<li><a id="0" onclick="myFunction(this.id)" href="#Foo">Button</a></li>
+				<li><a id="1" onclick="myFunction(this.id)" href="#Foo">Toggle-CheckBox</a></li>
+				<li><a id="2" onclick="myFunction(this.id)" href="#Foo">Links</a></li>
+				<li><a id="3" onclick="myFunction(this.id)" href="#Foo">ComboBox</a></li>
+				<li><a id="4" onclick="myFunction(this.id)" href="#Foo">Table</a></li>
+				<li><a id="5" onclick="myFunction(this.id)" href="#Foo">Tree</a></li>							
+			</ul>			
+		</div>
+		<div style="width:100%; height:2px; background-color: navy;"/>
+					
+				
+		<label style="font-size:20px;color:white;text-align:left;display: block">Note: This is unified sample application for HTML Customization examples. The source code for custom controls for these examples can be found at ..\Tosca_Projects\Tosca ToolKit\Custom Controls\ToolKit_CustomControls\</label>
+	</body>
+</html>

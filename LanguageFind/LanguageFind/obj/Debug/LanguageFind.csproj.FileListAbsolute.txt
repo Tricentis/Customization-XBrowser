@@ -1,0 +1,5 @@
+c:\users\kavgu\documents\visual studio 2015\Projects\LanguageFind\LanguageFind\bin\Debug\LanguageFind.dll
+c:\users\kavgu\documents\visual studio 2015\Projects\LanguageFind\LanguageFind\bin\Debug\LanguageFind.pdb
+c:\users\kavgu\documents\visual studio 2015\Projects\LanguageFind\LanguageFind\obj\Debug\LanguageFind.csprojResolveAssemblyReference.cache
+c:\users\kavgu\documents\visual studio 2015\Projects\LanguageFind\LanguageFind\obj\Debug\LanguageFind.dll
+c:\users\kavgu\documents\visual studio 2015\Projects\LanguageFind\LanguageFind\obj\Debug\LanguageFind.pdb
